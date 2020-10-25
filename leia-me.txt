@@ -1,0 +1,33 @@
+Optimize from n@gl.ch
+=====================
+
+Eu tenho usado para otimizar o uso do XOOPS-JP 2.X
+
+instalação
+
+=======
+
+Voce deve copiar todos os arquivos para o seu sub-diretórios de módulos
+
+Garantias
+========= 
+Esta ferramenta está sendo fornecida sem nenhuma garantia.
+
+Voce pode me contactar em: webmaster@nagl.ch
+ou no meu website: www.nagl.ch
+
+Mais detalhes:
+==============
+
+Ao descompactar o módulo voce deverá copiar a pasta optimize para dentro 
+do seu sub-diretório de módulos como informado acima.
+
+Vá até o setor de administração e solicite a instalação do módulo.
+Após intalado voce poderá ver no menu de administração a opção optimize.
+
+Apenas clicando em optimizar o banco de dados e será processado.
+O tempo de processamento poderá variar de acordo com cada banco.
+
+Translation for Brazilian Portuguese by giba@foxbrasil.com.br
+
+
